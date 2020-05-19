@@ -1,0 +1,6 @@
+telephon Samsung 2000 340
+computer Asus 3500 570
+tablet Lenovo 3200 280
+keyboard HyperX 900 80
+speakers JBL 330 40
+headphones Meizu 190 5
